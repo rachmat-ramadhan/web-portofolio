@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://rachmatramadhan.com">
-    <img alt="Rachmat Ramadhan" src="https://i0.wp.com/rachmatramadhan.com/wp-content/uploads/2022/01/Rachmat-Ramadhan-Web-.png?w=673&ssl=1" width="100%" />
+    <img alt="Rachmat Ramadhan" src="https://i0.wp.com/rachmatramadhan.com/wp-content/uploads/2022/01/Rachmat-Ramadhan-Web-.png?w=673&ssl=1" width="10%" />
   </a>
 </p>
 
